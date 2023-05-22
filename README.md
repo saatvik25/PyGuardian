@@ -5,4 +5,5 @@ The process of OTP Verification entails confirming a user's authenticity through
 We can create an application for the task of OTP verification using Python.
 
 
+
 <img width="511" alt=":" src="https://github.com/saatvik25/DATA-STRUCTURE-AND-ALGORITHM/assets/74640208/972a383a-daf4-46c7-8df7-5a69a7d9426a">
